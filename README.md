@@ -45,4 +45,4 @@ python rude-calc.py
 
 ## Author
 
-[Your Name] — [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Arifa Abu — https://github.com/arifaboxworld01/-rude-calc
