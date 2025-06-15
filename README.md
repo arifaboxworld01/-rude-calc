@@ -25,7 +25,7 @@ git clone https://github.com/arifaboxworld01/-rude-calc.git
 2. **Navigate into directory:**
 
 ```bash
-cd rude-calc
+cd -rude-calc
 ```
 
 ## Usage
