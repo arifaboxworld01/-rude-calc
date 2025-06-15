@@ -31,7 +31,7 @@ cd -rude-calc
 ## Usage
 
 ```bash
-python rude-calc.py
+python3 rude_calc.py
 ```
 
 - The script will prompt you for an operator and two numbers.
