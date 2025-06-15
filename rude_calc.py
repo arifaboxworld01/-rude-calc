@@ -4,7 +4,7 @@ while True:
     operator = input('Enter an operator (+, -, *, /): ').strip()
     if operator in ("+", "-", "*", "/"):
         break
-    print("Input is invalid, please type a valid operator.")
+    print("Input is invalid, please type a valid operator, dummy.")
 
 num1 = float(input('Enter 1st number'))
 num2 = float(input('Enter 2nd number'))
