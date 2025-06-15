@@ -19,7 +19,7 @@ Perform **basic calculations** — addition, subtraction, multiplication, and di
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rude-calc.git
+git clone https://github.com/arifaboxworld01/rude-calc.git
 ```
 
 2. **Navigate into directory:**
